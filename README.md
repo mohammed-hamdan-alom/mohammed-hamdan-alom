@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently studying **Computer Science BSc at King's College London**
 
-- 💬 Ask me about **Java, Python and Manchester United**
-
-- 🌱 I’m currently learning **Scala**
-
 - 📫 How to reach me: **mohammed.hamdan.alom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
