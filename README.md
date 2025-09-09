@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alom</h1>
-<h3 align="center">A Computer Science student based in London</h3>
+<h3 align="center">A Computer Science graduate based in London</h3>
 
-- 🔭 I’m currently studying **Computer Science BSc at King's College London**
+- 🔭 I've Graduated with a 2.1 in **Computer Science BSc at King's College London**
 
 - 📫 How to reach me: **mohammed.hamdan.alom@gmail.com**
 
